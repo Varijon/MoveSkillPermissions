@@ -1,0 +1,29 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+libs/GooeyLibs-2-1165.jar
+libs/Pixelmon-1.16.5-9.0.5-server.jar
+libs/Pixelmon-1.16.5-9.1.0-server.jar
+forge-1.16.5-36.2.35-mdk(1).zip
